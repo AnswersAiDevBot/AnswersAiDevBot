@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="AnswersAiDevBot friendly robot avatar, brand gradient">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#c026d3"/>
+      <stop offset="1" stop-color="#7c3aed"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" fill="url(#bg)"/>
+  <!-- antenna -->
+  <line x1="256" y1="146" x2="256" y2="116" stroke="#ffffff" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="256" cy="108" r="12" fill="#ffffff"/>
+  <!-- ears -->
+  <rect x="130" y="230" width="26" height="52" rx="12" fill="#ffffff" opacity="0.85"/>
+  <rect x="356" y="230" width="26" height="52" rx="12" fill="#ffffff" opacity="0.85"/>
+  <!-- head -->
+  <rect x="154" y="148" width="204" height="200" rx="46" fill="#ffffff" fill-opacity="0.12" stroke="#ffffff" stroke-width="5"/>
+  <!-- eyes -->
+  <circle cx="214" cy="232" r="26" fill="#ffffff"/>
+  <circle cx="298" cy="232" r="26" fill="#ffffff"/>
+  <circle cx="214" cy="232" r="10" fill="#7c3aed"/>
+  <circle cx="298" cy="232" r="10" fill="#7c3aed"/>
+  <!-- mouth: terminal prompt line -->
+  <path d="M210 296 L226 308 L210 320" fill="none" stroke="#ffffff" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="240" y="302" width="62" height="12" rx="6" fill="#ffffff"/>
+</svg>
